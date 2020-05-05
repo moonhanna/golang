@@ -165,8 +165,8 @@ File - Add Project Folder - workpace 추가
 1. run - exe파일 없이 단위 테스트용
    - ctrl + shift + b
    - go run ~~~.go
-2. build - 실행파일 만듬
+2. build - 실행파일 생성
    - go build ~~~.go
-3. install - 상위 폴더의 이름으로 실행파일 만듬(배포의 개념), bin 폴더에 생김
+3. install - 상위 폴더의 이름으로 실행파일 생성(배포의 개념), bin 폴더에 생김
    - go install
 
